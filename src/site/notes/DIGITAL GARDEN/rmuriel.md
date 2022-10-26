@@ -15,7 +15,7 @@ Este es el header
 
 # Digital Garden de rmuriel
 
-## Miremos
+Hola Juli, este es el espacio para la publicación de notas. Estoy probando el aspecto visual y por eso todo lo que está abajo... Para ver cada cosa cómo se vería en una nota normal. 
 
 # Encabezado 1
 ## Encabezado 2
