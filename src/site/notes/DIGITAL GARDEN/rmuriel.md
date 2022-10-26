@@ -32,8 +32,6 @@ Probando la inserción de imágenes con el siguiente *mapa conceptual*:
 
 Probando un archivo en formato PDF
 
-![[Sortis in ludis - Conferencia Parrondo.pdf]]
-
 
 
 
