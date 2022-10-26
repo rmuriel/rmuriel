@@ -8,12 +8,10 @@
 
 
 
-🗄 | Este es el *Zettelkasten* de Ricardo Muriel
+# Digital Garden de **@rmuriel**
 
 </div></div>
 
-
-# Digital Garden de rmuriel
 
 Hola Juli, este es el espacio para *la publicación de notas*. Estoy probando el aspecto visual, que puedes ver haciendo clic aquí ⮕  [[DIGITAL GARDEN/markdown|markdown]].  Así puedes ver cada detalle del **Tema** que se ha elegido para este website. 
 
