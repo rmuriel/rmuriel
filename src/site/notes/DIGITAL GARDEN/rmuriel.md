@@ -8,7 +8,7 @@
 
 
 
-Este es el header
+🗄 | Este es el *Zettelkasten* de Ricardo Muriel
 
 </div></div>
 
@@ -165,6 +165,6 @@ Se hace de la siguiente manera:
 
 
 
-Este es el footer
+⌦ **Digital Garden** creado por *@rmuriel*
 
 </div></div>
