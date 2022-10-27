@@ -7,13 +7,13 @@
 # Investigación educativa
 ## Ficha
 
-| Etiqueta       | Información                                                                                                                                                              |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Título         | "Influencia de la *metodología Game Thinking* en el reconocimiento de *sesgos cognitivos* implicados en la *toma de decisiones* en un contexto de formación corporativa" |
-| Autor          | Ricardo Muriel Salazar                                                                                                                                                   |
-| Código         | A01683438                                                                                                                                                                |
-| Asesor titular | [Dra. Blanca Rosa Ruíz Hernández](https://escueladehumanidades.tec.mx/dee/users/blanca-rosa-ruiz-hern%C3%A1ndez)                                                         |
-| Posgrado       | [Maestría en Educación](https://maestriasydiplomados.tec.mx/posgrados/maestria-en-educacion-en-linea)                                                                    |
+| Etiqueta | Información                                                                                                                                                              |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Título   | "Influencia de la *metodología Game Thinking* en el reconocimiento de *sesgos cognitivos* implicados en la *toma de decisiones* en un contexto de formación corporativa" |
+| Autor    | Ricardo Muriel Salazar                                                                                                                                                   |
+| Código   | A01683438                                                                                                                                                                |
+| Asesora  | [Dra. Blanca Rosa Ruiz Hernández](https://escueladehumanidades.tec.mx/dee/users/blanca-rosa-ruiz-hern%C3%A1ndez)                                                         |
+| Posgrado | [Maestría en Educación](https://maestriasydiplomados.tec.mx/posgrados/maestria-en-educacion-en-linea)                                                                    |
 
 
 ## Estructura
@@ -27,7 +27,7 @@
 7 - [[DIGITAL GARDEN/aprendices|Apéndices]]
 
 
-
+---
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
