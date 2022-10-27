@@ -4,7 +4,8 @@
 
 # Carta de participación
 
-Vínculo a Google Forms: https://docs.google.com/forms/d/12nvdQFHeZIWUhF3SRkpcmtfWOZiOA_U6jPIPSfee654/prefill
+Vínculo a Google Forms: 
+https://docs.google.com/forms/d/12nvdQFHeZIWUhF3SRkpcmtfWOZiOA_U6jPIPSfee654/prefill
 
 Quiero invitarte a participar en un estudio que estoy realizando sobre los efectos de la formación en heurísticas y sesgos cognitivos en la toma de decisiones estratégicas. La investigación está respaldada tanto por las autoridades de la Facultad de Educación del Tecnológico de Monterrey como del equipo de Talento y Cultura de la empresa. Se espera que en este estudio participe una muestra aproximada de 100 personas del Programa Altos Potenciales.
 
@@ -18,7 +19,7 @@ Si tienes alguna pregunta, por favor hazla. Si tienes alguna pregunta que quiera
 
 Ricardo Muriel Salazar: A01683438@itesm.mx
 
-Blanca Rosa Ruiz Hernández (Directora): bruiz@tec.mx
+Blanca Rosa Ruiz Hernández (Asesora): bruiz@tec.mx
 
 Si deseas conservar una copia de esta carta, solicítamela y te la daré.
 
