@@ -13,7 +13,8 @@
 
 </div></div>
 
-# Estructura de la investigación
+# Investigación educativa
+## Ficha
 
 | Etiqueta       | Información                                                                                                                                                              |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -24,6 +25,7 @@
 | Posgrado       | Maestría en Educación                                                                                                                                                    |
 |                |                                                                                                                                                                          |
 
+## Estructura
 
 1 - [[DIGITAL GARDEN/marco|Marco teórico]]
 2 - [[DIGITAL GARDEN/problema|Planteamiento del problema]]
