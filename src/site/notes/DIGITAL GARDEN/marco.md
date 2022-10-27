@@ -4,7 +4,6 @@
 
 
 # Marco teórico
-
 ## Introducción
 
 La *Toma de Decisiones* es un campo de estudio amplio y multidisciplinar, que desde mediados del Siglo XX ha cobrado particular interés gracias a los avances de la Psicología Cognitiva, y en los últimos años, a la Neurociencia y la Biología Evolutiva.  Esta atención no ha menguado con el paso de las décadas; al contrario, parece haberse hecho un lugar más allá del discurso de la ciencia, entre periodistas, políticos, empresarios y, de manera preferente, entre los profesionales dedicados al marketing.  La vigilancia sobre los desarrollos de la ciencia en este campo está justificada en los hallazgos sistemáticos de los mecanismos mentales que están implicados en la manera como el cerebro interpreta y hace uso de la información del entorno, hallazgos que han ofrecido luces sobre la naturaleza de la *Racionalidad* humana y sus implicaciones prácticas (Baddeley, 2020).
@@ -107,13 +106,13 @@ Aunque Von Neumann y Morgenstern dieron un salto importante a lo propuesto inici
 Allais (1953) pone en cuestión los axiomas de este modelo y demuestra que los sujetos los violan de manera sistemática.  De manera específica, demuestra que el más débil de los axiomas es el de independencia y que las personas no siempre buscan el máximo de utilidad. Allais propone una lotería que se conoce como Paradoja de Allais, en la que se propone elecciones entre dos duplas de alternativas A y B y C y D. 
 
 - A: Probabilidad del 100% de recibir 100 millones
--
+
 - B: Probabilidad del 10% de recibir 500 millones, probabilidad del 89% de recibir 100 millones y probabilidad del 1% de no recibir premio. 
 
 Lo sujetos prefirieron A a B, de modo que la valoración fue que A>B.  Pero, se presenta la dupla C y D así: 
 
 - C: Probabilidad del 11% de recibir 100 millones, probabilidad del 89% de no recibir premio
--
+
 - D: Probabilidad del 10% de recibir 500 millones, probabilidad del 90% de no recibir premio
 
 Los sujetos prefirieron D a C, contradiciendo el modelo de Von Neumann y Morgenstern.  Respecto a las ganancias, los individuos tuvieron una preferencia por el menor riesgo. Pero, frente a las pérdidas, los individuos se decantaron por la mayor utilidad. 
