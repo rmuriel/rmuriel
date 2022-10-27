@@ -15,6 +15,16 @@
 
 # Estructura de la investigación
 
+| Etiqueta       | Información                                                                                                                                                              |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Título         | "Influencia de la *metodología Game Thinking* en el reconocimiento de *sesgos cognitivos* implicados en la *toma de decisiones* en un contexto de formación corporativa" |
+| Autor          | Ricardo Muriel Salazar                                                                                                                                                   |
+| Código         | A01683438                                                                                                                                                                |
+| Asesor titular | Dra. Blanca Rosa Ruíz Hernández                                                                                                                                          |
+| Posgrado       | Maestría en Educación                                                                                                                                                    |
+|                |                                                                                                                                                                          |
+
+
 1 - [[DIGITAL GARDEN/marco|Marco teórico]]
 2 - [[DIGITAL GARDEN/problema|Planteamiento del problema]]
 3 - [[DIGITAL GARDEN/metodologia|Metodología de la investigación]]
