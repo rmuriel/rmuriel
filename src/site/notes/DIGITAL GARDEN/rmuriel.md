@@ -33,7 +33,7 @@
 4 - [[DIGITAL GARDEN/analisis|Análisis de resultados]]
 5 - [[DIGITAL GARDEN/conclusiones|Conclusiones]]
 6 - [[DIGITAL GARDEN/referencias|Referencias]]
-7 - Apéndices
+7 - [[DIGITAL GARDEN/aprendices|Apéndices]]
 
 ---
 
