@@ -35,8 +35,6 @@
 6 - [[DIGITAL GARDEN/referencias|Referencias]]
 7 - [[DIGITAL GARDEN/aprendices|Apéndices]]
 
----
-
 
 
 
