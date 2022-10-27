@@ -21,9 +21,9 @@
 | Título         | "Influencia de la *metodología Game Thinking* en el reconocimiento de *sesgos cognitivos* implicados en la *toma de decisiones* en un contexto de formación corporativa" |
 | Autor          | Ricardo Muriel Salazar                                                                                                                                                   |
 | Código         | A01683438                                                                                                                                                                |
-| Asesor titular | [Dra. Blanca Rosa Ruíz Hernández](https://escueladehumanidades.tec.mx/dee/users/blanca-rosa-ruiz-hern%C3%A1ndez)                                                                                                                                          |
-| Posgrado       | [Maestría en Educación](https://maestriasydiplomados.tec.mx/posgrados/maestria-en-educacion-en-linea)                                                                                                                                                 |
-|                |                                                                                                                                                                          |
+| Asesor titular | [Dra. Blanca Rosa Ruíz Hernández](https://escueladehumanidades.tec.mx/dee/users/blanca-rosa-ruiz-hern%C3%A1ndez)                                                         |
+| Posgrado       | [Maestría en Educación](https://maestriasydiplomados.tec.mx/posgrados/maestria-en-educacion-en-linea)                                                                    |
+
 
 ## Estructura
 
