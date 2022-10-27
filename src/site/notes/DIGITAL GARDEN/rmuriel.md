@@ -8,18 +8,13 @@
 
 
 
-# Digital Garden de **@rmuriel**
+| ![[logo.png\|150]] | Investigación: *Game Thinking* y *Sesgos Cognitivos* |
+|:------------------:|:----------------------------------------------------:|
+|                    |                                                      |
+|                    |                                                      |
 
 </div></div>
 
-
-Hola Juli, este es el espacio para *la publicación de notas*. Estoy probando el aspecto visual, que puedes ver haciendo clic aquí ⮕  [[DIGITAL GARDEN/markdown|markdown]].  Así puedes ver cada detalle del **Tema** que se ha elegido para este website. 
-
-Supuestamente puedo poner links a más notas y hacer que todo se vea como un *Sistema*.   Ando pensando en poner todo el documento de tesis y demás cositas que me servirán para exponer, pero que uno no entrega nunca en el documento final (como notas al margen sobre **artículos** o **dudas** que uno haya tenido con el paso del tiempo)
-
-Voy a comenzar probando con el [[DIGITAL GARDEN/marco|Marco teórico]], y poco a poco iré subiendo los textos de la tesis, con los links que se correspondan.  Creo que puede salir algo súper chévere. 
-
----
 # Estructura de la investigación
 
 1 - [[DIGITAL GARDEN/marco|Marco teórico]]
