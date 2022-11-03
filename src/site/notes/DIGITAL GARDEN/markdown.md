@@ -117,7 +117,7 @@ Comentario en bloque:
 
 > [!INFO] Información clave
 > Esto es un bloque Callout
-> Soporta **markdown** y [[links internos.|links internos.]]
+> Soporta **markdown** y [[links internos.\|links internos.]]
 
 #### Tipos de Callouts
 
@@ -142,4 +142,4 @@ Comentario en bloque:
 
 Se hace de la siguiente manera: 
 
-[[DIGITAL GARDEN/markdown#Titulo|Nombre que quiero usar]]
+[[DIGITAL GARDEN/markdown#Titulo\|Nombre que quiero usar]]
