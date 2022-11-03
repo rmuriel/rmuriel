@@ -208,76 +208,73 @@ Sin embargo, este estudio se centra en las tres heurísticas básicas: *Represen
 
 ### Representatividad
 
-Como se ha dicho, así no se cuente con formación básica sobre *Probabilidad*, la vida cotidiana está plagada de situaciones de carácter probabilístico en las que se toman decisiones con el apoyo de heurísticas. 
+Como se ha dicho, así no se cuente con formación básica sobre _Probabilidad_, la vida cotidiana está plagada de situaciones de carácter probabilístico en las que se toman decisiones con el apoyo de heurísticas.
 
-La heurística de *Representatividad*  de manera típica ayuda a resolver tres de esas situaciones (Kahneman, 2012): 
+La heurística de _Representatividad_ de manera típica ayuda a resolver tres de esas situaciones (Kahneman, 2012):
 
-1. ¿Cuál es la probabilidad de que el objeto A pertenezca a la clase B?;
-2. ¿Cuál es la probabilidad de que el origen del evento A sea el proceso B?; 
-3. ¿Cuál es la probabilidad de que el proceso B genere el evento A?
+- ¿Cuál es la probabilidad de que el objeto A pertenezca a la clase B?;
+- ¿Cuál es la probabilidad de que el origen del evento A sea el proceso B?;
+- ¿Cuál es la probabilidad de que el proceso B genere el evento A?
 
-En la primer situación, esta heurística permite, en cuestión de segundos, resolver «problemas» como: 
+De esta manera, esta heurística permite, en cuestión de segundos, resolver «problemas» cotidianos como:
 
-* ¿Cuál es la probabilidad de que el señor que está sentado allí tomando café (*Objeto*) pertenezca al grupo de los desempleados de la ciudad (*Clase*) ?
-* ¿Cuál es la probabilidad de que en este restaurante (*Objeto*) se sirva comida de alta calidad (*Clase*)?
+* ¿Cuál es la probabilidad de que el señor que está sentado allí tomando café (_Objeto_) pertenezca al grupo de los desempleados de la ciudad (_Clase_)?
 
-En la segunda situación, permite resolver problemas como: 
+* ¿Cuál es la probabilidad de que en este restaurante (_Objeto_) se sirva comida de alta calidad (_Clase_)?
 
-* ¿Cuál es la probabilidad de que ?
+* ¿Cuál es la probabilidad de que las reuniones de trabajo (_Proceso B_) generen indisposición para cumplir las metas del día (_Evento A_)?
 
+* Cuál es la probabilidad de que el origen del cumplimiento de la tarea (_Evento A_) haya sido el castigo impartido el día anterior (_Proceso B_)?
 
-**Copiar esta parte del documento original**
+La estimación de la probabilidad aquí depende del grado en que _A_ se asemeja a _B_. Si _A_ y _B_ no se asemejan, se encuentra poco probable que una cosa tenga que ver con la otra. En ambas direcciones (si se asemejan o no) se lleva a sistemáticos errores de juicio (_Sesgos_). Hay que tener en cuenta que esta estimación es subjetiva, no se está resolviendo el problema como le corresponde a la probabilidad como disciplina.
 
-
-La estimación de la probabilidad aquí depende del grado en que *A* se asemeja a *B*.   Si *A* y *B* no se asemejan, se encuentra poco probable que una cosa tenga que ver con la otra.  En ambas direcciones (si se asemejan o no) se lleva a sistemáticos errores de juicio (*Sesgos*).
-
-A su vez la estimación de semejanza entre *A* y *B* depende de la construcción estereotipada de uno y otro. ¿Cuál es el estereotipo del desempleado (cómo se viste, qué actitud tiene, qué consume) para estimar la probabilidad de que el señor que toma café lo sea? 
+A su vez la estimación de semejanza entre _A_ y _B_ depende de la construcción estereotipada de uno y otro. ¿Cuál es el estereotipo del desempleado (cómo se viste, qué actitud tiene, qué consume) para estimar la probabilidad de que el señor que toma café lo sea?
 
 La confianza en esta manera de estimar las situaciones probabilísticas hace que se desestimen otros factores que en teoría deberían afectar la probabilidad de un evento. En particular, Kahneman (2012) ha encontrado:
 
-1. Insensibilidad a resultados probabilísticos previos
-2. Insensibilidad al tamaño de la muestra
-3. Insensibilidad a la previsibilidad
+- Insensibilidad a resultados probabilísticos previos
+- Insensibilidad al tamaño de la muestra
+- Insensibilidad a la previsibilidad
 
-Es decir, en la tarea de construir un juicio sobre una situación de tipo probabilístico se omite la evidencia. Primero, se omite los resultados de la línea de base, no entran en el cómputo las probabilidades ya encontradas (incluso demostradas); segundo, no importa de cuántas personas se componga la *Clase* de la que se esté hablando, da lo mismo que hayan 10 o un millón de desempleados en el mismo puedo, se juzgará de la misma manera al hombre que toma café; y, tercero, la predictibilidad de un evento se centra en el estereotipo de la situación actual sin considerar la factibilidad de la información. Dicho de otra manera, se predice, por ejemplo, el éxito de una relación de pareja a lo largo del tiempo conforme el comportamiento que se observa en la actualidad se asemeja al estereotipo que se ha construido sobre la vida de las parejas exitosas, desestimando por completo la factibilidad de los cambios de las variables que están implicadas. 
+Es decir, en la tarea de construir un juicio sobre una situación de tipo probabilístico se omite la evidencia. Primero, se omite los resultados de la línea de base, no entran en el cómputo las probabilidades ya encontradas (incluso demostradas); segundo, no importa de cuántas personas se componga la _Clase_ de la que se esté hablando, da lo mismo que hayan 10 o un millón de desempleados en el mismo puedo, se juzgará de la misma manera al hombre que toma café; y, tercero, la predictibilidad de un evento se centra en el estereotipo de la situación actual sin considerar la factibilidad de la información. Dicho de otra manera, se predice, por ejemplo, el éxito de una relación de pareja a lo largo del tiempo conforme el comportamiento que se observa en la actualidad se asemeja al estereotipo que se ha construido sobre la vida de las parejas exitosas, desestimando por completo la factibilidad de los cambios de las variables que están implicadas.
 
-Así mismo, la estructura propia de la heurística conlleva a tres sesgos llamativos: 
+Así mismo, la estructura propia de la heurística conlleva a tres sesgos llamativos:
 
-1. Concepciones erróneas sobre el azar
-2. La ilusión de validez
-3. Concepciones erróneas de la regresión
+- Concepciones erróneas sobre el azar
+- La ilusión de validez
+- Concepciones erróneas de la regresión
 
-Dado que el estereotipo tiene la estructura de una *narrativa*, los eventos azarosos son representados como historias plausibles o no; vale decir, la idea que se construye sobre el azar reposa sobre pequeñas cadenas de eventos que parecen ser representativas del global de lo probable.  Parece ser más probable que si nos topamos al azar a cuatro personas desconocidas, caminando por la calle, estas tengan nombres diferentes a que las cuatro personas se llamen, por ejemplo, *Manuel* (incluso si entre ellas hay una mujer).  Lo que además lleva a pensar que de aparecer una quinta persona es menos probable que se llame también Manuel a que tenga cualquier otro nombre (*Falacia del jugador*).  De esta manera, el azar es juzgado a partir de muestras muy pequeñas, creyendo que estas muestras responden a los mismos criterios que las muestras grandes (*Ley de los pequeños números*).  
+Dado que el estereotipo tiene la estructura de una _narrativa_, los eventos azarosos son representados como historias plausibles o no; vale decir, la idea que se construye sobre el azar reposa sobre pequeñas cadenas de eventos que parecen ser representativas del global de lo probable. Parece ser más probable que si nos topamos al azar a cuatro personas desconocidas, caminando por la calle, estas tengan nombres diferentes a que las cuatro personas se llamen, por ejemplo, _Manuel_ (incluso si entre ellas hay una mujer). Lo que además lleva a pensar que de aparecer una quinta persona es menos probable que se llame también Manuel a que tenga cualquier otro nombre (_Falacia del jugador_). De esta manera, el azar es juzgado a partir de muestras muy pequeñas, creyendo que estas muestras responden a los mismos criterios que las muestras grandes (_Ley de los pequeños números_).
 
-Estas pequeñas narrativas construidas a partir de pocos datos es lo que lleva a las personas a tener una *ilusión de validez*. Se confía en testimonios para predecir el éxito de un evento o en descripciones positivas para hacer pronósticos positivos. 
+Estas pequeñas narrativas construidas a partir de pocos datos es lo que lleva a las personas a tener una _ilusión de validez_. Se confía en testimonios para predecir el éxito de un evento o en descripciones positivas para hacer pronósticos positivos.
 
-Aunque la confianza que se le tiene a la *Heurística de Representatividad* puede conducir a errores,  tiene su base en que los juicios de las personas está limitada a la cantidad de experiencias que se puedan tener dentro de un ámbito particular.  En general, este límite de experiencias se asume como representativo de todas las experiencias posibles dentro de un marco.  Es la manera en la que la mente humana construye sentido a partir de las vivencias cotidianas.  De modo que las leyes estadísticas, que se ocupan de establecer cantidades válidas de datos dentro de una Muestra, entran en clara contradicción con esta manera de sacar conclusiones sobre la probabilidad de que ocurra un evento cualquiera. 
+Aunque la confianza que se le tiene a la _Heurística de Representatividad_ puede conducir a errores, tiene su base en que los juicios de las personas están limitados a la cantidad de experiencias que se puedan tener dentro de un ámbito particular. En general, este límite de experiencias se asume como representativo de todas las experiencias posibles dentro de un marco. Es la manera en la que la mente humana construye sentido a partir de las vivencias cotidianas. De modo que las leyes estadísticas, que se ocupan de establecer cantidades válidas de datos dentro de una Muestra, entran en clara contradicción con esta manera de sacar conclusiones sobre la probabilidad de que ocurra un evento cualquiera.
 
-De modo que es esperable que un concepto estadístico tan básico como la *Regresión a la Media* esté completamente fuera del alcance del pensamiento intuitivo.  Se cuenta con tan pocos datos en la vida cotidiana que el fenómeno de la regresión no se constata a simple vista.  Para dar sentido a los resultados de un evento se tiende a sobreestimar los datos iniciales, sin considerar que estos datos pueden estar alejados de la *Media*.  Se desconoce el valor de la Media y, para llenar este vacío, se hace una predicción a partir de los primeros datos obtenidos, sin tener consciencia del error. De hecho, no parece haber consciencia de que los eventos poco probables también pueden ocurrir dentro del marco de referencia de lo que hoy se conoce como la *Campana de Gauss*, las esquinas también forman parte de los eventos esperables. 
+De modo que es esperable que un concepto estadístico tan básico como la _Regresión a la Media_ esté completamente fuera del alcance del pensamiento intuitivo. Se cuenta con tan pocos datos en la vida cotidiana que el fenómeno de la regresión no se constata a simple vista. Para dar sentido a los resultados de un evento se tiende a sobreestimar los datos iniciales, sin considerar que estos datos pueden estar alejados de la _Media_. Se desconoce el valor de la Media y, para llenar este vacío, se hace una predicción a partir de los primeros datos obtenidos, sin tener consciencia del error. De hecho, no parece haber consciencia de que los eventos poco probables también pueden ocurrir dentro del marco de referencia de lo que hoy se conoce como la _Campana de Gauss_, las esquinas también forman parte de los eventos esperables.
 
 ### Disponibilidad
 
-Por otra parte, la *Heurística de Disponibilidad* se vale de nuestra memoria.  La estimación de la probabilidad de que un evento ocurra dependerá de la facilidad con la que eventos similares sean recuperados por la memoria. De modo que la probabilidad está supeditada al tipo de información que se consume diariamente.  Steven Pinker advierte sobre esto en particular acerca del consumo de noticias en los medios: 
+Por otra parte, la _Heurística de Disponibilidad_ se vale de nuestra memoria. La estimación de la probabilidad de que un evento ocurra dependerá de la facilidad con la que eventos similares sean recuperados por la memoria. De modo que la probabilidad está supeditada al tipo de información que se consume diariamente. Steven Pinker advierte sobre esto en particular acerca del consumo de noticias en los medios:
 
->  "La prensa es una máquina de disponibilidad. Ofrece anécdotas que alimentan nuestra impresión de lo que es común de tal manera que está garantizado que será engañosa. Dado que la noticia es lo que sucede, no lo que no sucede, el denominador de la fracción correspondiente a la probabilidad de la verdad de un acontecimiento (todas las oportunidades de que se produzca el suceso, incluidas aquellas en las que no ocurre) es invisible, dejándonos en la oscuridad acerca de la auténtica prevalencia de algo." (Pinker, 2021)
+> “La prensa es una máquina de disponibilidad. Ofrece anécdotas que alimentan nuestra impresión de lo que es común de tal manera que está garantizado que será engañosa. Dado que la noticia es lo que sucede, no lo que no sucede, el denominador de la fracción correspondiente a la probabilidad de la verdad de un acontecimiento (todas las oportunidades de que se produzca el suceso, incluidas aquellas en las que no ocurre) es invisible, dejándonos en la oscuridad acerca de la auténtica prevalencia de algo.” (Pinker, 2021)
 
-Dado que las noticias suelen ser temas de conversación, la información que obtenemos acerca de ellas permanece «disponible» en la memoria, haciendo que nuestra percepción sobre lo que creemos más probable que ocurra en el mundo sea precisamente lo contrario.  No se toma en cuenta que los eventos que hacen noticia son justo los eventos que se ubican en los extremos.   Si las decisiones van en esta vía, está justificado que Pinker (2021) más adelante afirme: "*El sesgo de disponibilidad puede afectar al destino del planeta*.".  
+Dado que las noticias suelen ser temas de conversación, la información que obtenemos acerca de ellas permanece «disponible» en la memoria, haciendo que nuestra percepción sobre lo que creemos más probable que ocurra en el mundo sea precisamente lo contrario. No se toma en cuenta que los eventos que hacen noticia son justo los eventos que se ubican en los extremos. Si las decisiones van en esta vía, está justificado que Pinker (2021) más adelante afirme: “_El sesgo de disponibilidad puede afectar al destino del planeta_.”.
 
-La recuperación de este tipo de eventos se conoce con el nombre de «_Sesgos debido a ejemplos recuperables_».  La base de este sesgo es que se modifica la idea del tamaño de una Clase particular. Por ejemplo, el tamaño de ladrones en una ciudad, de accidentes de tren o de emprendimientos exitosos.  Si los ejemplos no se recuperan fácilmente, el tamaño de la clase se reduce, sin considerar que quizá se esté ante una clase de la que poco se puede extraer una noticia: ¿en la ciudad en la que se vive hay más motociclistas que lectores?.  Es claro que de una clase se obtiene más información que de la otra. 
+La recuperación de este tipo de eventos se conoce con el nombre de «_Sesgos debido a ejemplos recuperables_». La base de este sesgo es que se modifica la idea del tamaño de una Clase particular. Por ejemplo, el tamaño de ladrones en una ciudad, de accidentes de tren o de emprendimientos exitosos. Si los ejemplos no se recuperan fácilmente, el tamaño de la clase se reduce, sin considerar que quizá se esté ante una clase de la que poco se puede extraer una noticia: ¿en la ciudad en la que se vive hay más motociclistas que lectores? Es claro que de una clase se obtiene más información que de la otra.
 
-Otro sesgo que se deriva de esta heurística es el «_Sesgo debido a la efectividad de una búsqueda_».  Es similar a la recuperación de ejemplos, pero en este caso las búsquedas se refieren no sucesos sino, por ejemplo, a conceptos. El principio es el mismo. 
+Otro sesgo que se deriva de esta heurística es el «_Sesgo debido a la efectividad de una búsqueda_». Es similar a la recuperación de ejemplos, pero en este caso las búsquedas se refieren no sucesos sino, por ejemplo, a conceptos. El principio es el mismo.
 
-Más interesante resulta el *sesgo de imaginabilidad*, que ligado a la memoria, tiene que ver con la facilidad con la que se puede reconstruir en la imaginación un evento. Sensible a esta capacidad es la intuición numérica, situaciones que requieren hacer cálculos matemáticos para llegar a un resultado; en ausencia de la posibilidad de hacer el cálculo, se opta por estimar más probable el resultado que resulta más fácil de imaginar. Este sesgo está ligado también a las expectativas, que en general son producto de lo que es más fácil imaginar que suceda; de modo que si se tiene una tendencia a tener una visión negativa de los resultados, será más fácil imaginar resultados desastrosos, lo que por supuesto no responde a la probabilidad real de que sucedan tales desenlaces.
+Más interesante resulta el _sesgo de imaginabilidad_, que, ligado a la memoria, tiene que ver con la facilidad con la que se puede reconstruir en la imaginación un evento. Sensible a esta capacidad es la intuición numérica, situaciones que requieren hacer cálculos matemáticos para llegar a un resultado; en ausencia de la posibilidad de hacer el cálculo, se opta por estimar más probable el resultado que resulta más fácil de imaginar. Este sesgo está ligado también a las expectativas, que en general son producto de lo que es más fácil imaginar que suceda; de modo que si se tiene una tendencia a tener una visión negativa de los resultados, será más fácil imaginar resultados desastrosos, lo que por supuesto no responde a la probabilidad real de que sucedan tales desenlaces.
 
-Kahneman (2012) trae a colación el *sesgo de correlación ilusoria*, investigado por Chapman y Chapman (1967), y también atribuido a la *Heurística de Disponibilidad*.  Dos variables diferentes se estiman correlacionadas por la fuerza asociativa que se ha establecido entre ellas, de modo que se estima erróneamente la frecuencia en la que las dos se dan de manera conjunta.  De nuevo, este error de juicio está relacionado con la sobreestimación de las pocas veces que se ha observado el comportamiento conjunto de las variables. 
+Kahneman (2012) trae a colación el _sesgo de correlación ilusoria_, investigado por Chapman y Chapman (1967), y también atribuido a la _Heurística de Disponibilidad_. Dos variables diferentes se estiman correlacionadas por la fuerza asociativa que se ha establecido entre ellas, de modo que se estima erróneamente la frecuencia en la que las dos se dan de manera conjunta. De nuevo, este error de juicio está relacionado con la sobreestimación de las pocas veces que se ha observado el comportamiento conjunto de las variables.
 
 ### Anclaje y ajuste
 
-Como sucede con la «solución» que ofrece la mente ante la incomprensión de la regresión a la media, en la *Heurística de anclaje y ajuste* los valores iniciales funcionan como anclas para valoraciones posteriores.  Se sobrevalora la importancia de los datos iniciales, constituyendo una línea de base para estimar eventos posteriores.   Este anclaje se da incluso cuando los números iniciales son resultado del azar (Kahneman, 2012). 
+Como sucede con la «solución» que ofrece la mente ante la incomprensión de la regresión a la media, en la _Heurística de anclaje y ajuste_ los valores iniciales funcionan como anclas para valoraciones posteriores. Se sobrevalora la importancia de los datos iniciales, constituyendo una línea de base para estimar eventos posteriores. Este anclaje se da incluso cuando los números iniciales son resultado del azar (Kahneman, 2012).
 
-Un sesgo particularmente interesantes que se deriva de la confianza excesiva en esta heurística: es el *Sesgo en la evaluación de eventos conjuntivos y disjuntivos*.
+Un sesgo particularmente interesante que se deriva de la confianza excesiva en esta heurística: es el _Sesgo en la evaluación de eventos conjuntivos y disjuntivos_.
 
-Para estimar la probabilidad de eventos compuestos, la mente tiende a simplificar y se asume como ancla las probabilidades simples de los eventos por separado.  Por ejemplo, la estimación de éxito sobre  un proyecto a mediano plazo se hará en relación a la probabilidad de éxito de los pequeños eventos que constituyen el proyecto en general, sin tener en cuenta que entre más eventos estén implicados es menos probable que al final se obtenga un buen resultado.  De modo que se subestima la probabilidad de fracaso en un sistema complejo.  Así como se subestima la probabilidad de fracaso en el resultado general, dado que hay poca probabilidad de fracaso en eventos específicos; se sobrestima la posibilidad de éxito en el resultado final, dada la alta probabilidad de éxito de eventos específicos. 
+Para estimar la probabilidad de eventos compuestos, la mente tiende a simplificar y se asume como ancla las probabilidades simples de los eventos por separado. Por ejemplo, la estimación de éxito sobre un proyecto a mediano plazo se hará en relación con la probabilidad de éxito de los pequeños eventos que constituyen el proyecto en general, sin tener en cuenta que entre más eventos estén implicados es menos probable que al final se obtenga un buen resultado. De modo que se subestima la probabilidad de fracaso en un sistema complejo. Así como se subestima la probabilidad de fracaso en el resultado general, dado que hay poca probabilidad de fracaso en eventos específicos; se sobrestima la posibilidad de éxito en el resultado final, dada la alta probabilidad de éxito de eventos específicos.
 
 **Figura No.6**
 *Tres heurísticas básicas y sus principios*
