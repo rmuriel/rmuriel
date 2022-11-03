@@ -17,13 +17,13 @@
 
 ## Estructura
 
-1 - [[DIGITAL GARDEN/marco|Marco teórico]]
-2 - [[DIGITAL GARDEN/problema|Planteamiento del problema]]
-3 - [[DIGITAL GARDEN/metodologia|Metodología de la investigación]]
-4 - [[DIGITAL GARDEN/analisis|Análisis de resultados]]
-5 - [[DIGITAL GARDEN/conclusiones|Conclusiones]]
-6 - [[DIGITAL GARDEN/referencias|Referencias]]
-7 - [[DIGITAL GARDEN/aprendices|Apéndices]]
+1 - [[DIGITAL GARDEN/marco\|Marco teórico]]
+2 - [[DIGITAL GARDEN/problema\|Planteamiento del problema]]
+3 - [[DIGITAL GARDEN/metodologia\|Metodología de la investigación]]
+4 - [[DIGITAL GARDEN/analisis\|Análisis de resultados]]
+5 - [[DIGITAL GARDEN/conclusiones\|Conclusiones]]
+6 - [[DIGITAL GARDEN/referencias\|Referencias]]
+7 - [[DIGITAL GARDEN/aprendices\|Apéndices]]
 
 
 ---
