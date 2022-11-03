@@ -108,7 +108,7 @@
 
 - [x] Perera B., M. A. y Martín G., C. (2018). ¿Jugamos al ajedrez y aprendemos ciencias?. Ápice. Revista de Educación Científica, 2(1), 18-29. DOI: https://doi.org/10.17979/arec.2018.2.1.2885
 
-- [x] Pinker, S. (2021): [[400 - ACADEMICO/KINDLE/Racionalidad|Racionalidad]]: Qué es, por qué escasea, cómo promoverla. Edición digital. Paidós Ibérica.
+- [x] Pinker, S. (2021): [[400 - ACADEMICO/KINDLE/Racionalidad\|Racionalidad]]: Qué es, por qué escasea, cómo promoverla. Edición digital. Paidós Ibérica.
 
 - [x] Rojas-Barahona, C. (2020). Funciones ejecutivas y Educación: Comprendiendo habilidades clave para el aprendizaje. Edición digital, Ediciones UC.
 
